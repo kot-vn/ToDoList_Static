@@ -25,6 +25,10 @@
   --cyan: #17a2b8;
 }
 
+* {
+  transition: 0.1s all ease-in-out;
+}
+
 body {
   margin: 0 !important;
   font-family: "Poppins", sans-serif !important;
